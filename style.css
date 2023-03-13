@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: black;
+}
+#map {
+    height: 600px;
+    width: 800px; 
+    display: flex;  
+}
